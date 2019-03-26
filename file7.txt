@@ -1,2 +1,6 @@
 this is for devlopment branch
+<<<<<<< HEAD
 this is 
+=======
+this is
+>>>>>>> devlopment
